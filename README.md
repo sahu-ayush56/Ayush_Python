@@ -1,1 +1,1 @@
-# Ayush_Python
+This repository contains python assignments.
